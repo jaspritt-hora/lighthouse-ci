@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@lhci/cli",
+  "name": "forked-test",
   "workspaces": [
     "packages/*"
   ],
